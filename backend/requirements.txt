@@ -1,0 +1,45 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Backend Python dependencies
+# Pin minor versions for reproducibility; allow patches for security fixes.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── Web framework ─────────────────────────────────────────────────────────────
+fastapi==0.111.*
+uvicorn[standard]==0.30.*
+python-multipart==0.0.*          # form parsing
+
+# ── Settings & validation ─────────────────────────────────────────────────────
+pydantic==2.7.*
+pydantic-settings==2.3.*
+python-dotenv==1.0.*
+
+# ── Database (SQLAlchemy + pgvector) ─────────────────────────────────────────
+sqlalchemy==2.0.*
+psycopg2-binary==2.9.*           # Postgres adapter
+pgvector==0.3.*                  # pgvector SQLAlchemy type
+
+# ── Async job queue ───────────────────────────────────────────────────────────
+rq==1.16.*
+redis==5.0.*
+
+# ── LLM & agent orchestration ────────────────────────────────────────────────
+openai==1.35.*
+langchain==0.2.*
+langchain-openai==0.1.*
+langchain-community==0.2.*
+langgraph==0.1.*
+
+# ── Embeddings (local, no API cost) ──────────────────────────────────────────
+sentence-transformers==3.0.*
+torch==2.3.*                     # CPU-only build is fine for demo
+# If running on CPU-only machine, the line above installs default (includes CPU)
+# For smaller install: replace with torch==2.3.*+cpu from --index-url below
+# (see Dockerfile for CPU-only install)
+
+# ── Mock data generation ──────────────────────────────────────────────────────
+faker==25.*
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+httpx==0.27.*                    # async HTTP client
+numpy==1.26.*                    # vector math
+python-json-logger==2.0.*        # structured logging

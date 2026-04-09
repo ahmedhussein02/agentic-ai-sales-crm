@@ -1,0 +1,22 @@
+[
+  {"company": "NovaPay",         "name": "Aria Chen",       "title": "VP of Engineering",         "email": "aria.chen@novapay.io"},
+  {"company": "NovaPay",         "name": "Marcus Webb",     "title": "Head of Product",           "email": "m.webb@novapay.io"},
+  {"company": "HealthBridge AI", "name": "Dr. James Osei",  "title": "Chief Medical Officer",     "email": "j.osei@healthbridge.ai"},
+  {"company": "HealthBridge AI", "name": "Priya Nair",      "title": "VP Engineering",            "email": "p.nair@healthbridge.ai"},
+  {"company": "LogiStack",       "name": "Tom Harrington",  "title": "Director of Operations",    "email": "t.harrington@logistack.com"},
+  {"company": "LogiStack",       "name": "Sandra Reyes",    "title": "CTO",                       "email": "s.reyes@logistack.com"},
+  {"company": "ClearDesk",       "name": "Jake Mullen",     "title": "CEO & Co-founder",          "email": "jake@cleardesk.co"},
+  {"company": "ClearDesk",       "name": "Fatima Al-Rashid","title": "Head of People",            "email": "fatima@cleardesk.co"},
+  {"company": "Orbis Analytics", "name": "Leo Park",        "title": "VP of Sales",               "email": "l.park@orbisanalytics.com"},
+  {"company": "Orbis Analytics", "name": "Nina Braun",      "title": "Head of Data Platform",     "email": "n.braun@orbisanalytics.com"},
+  {"company": "Zenova Security", "name": "Derek Stone",     "title": "CISO",                      "email": "d.stone@zenovasecurity.com"},
+  {"company": "Zenova Security", "name": "Alicia Fernandez","title": "Director of Sales",         "email": "a.fernandez@zenovasecurity.com"},
+  {"company": "TerraGrow",       "name": "Brett Olson",     "title": "CEO",                       "email": "brett@terragrow.ag"},
+  {"company": "TerraGrow",       "name": "Mei Zhang",       "title": "Head of Engineering",       "email": "mei@terragrow.ag"},
+  {"company": "Edvance",         "name": "Claire Hudson",   "title": "VP Customer Success",       "email": "c.hudson@edvance.io"},
+  {"company": "Edvance",         "name": "Omar Siddiqui",   "title": "CTO",                       "email": "o.siddiqui@edvance.io"},
+  {"company": "Pulsepoint CRM",  "name": "Rachel Kim",      "title": "Head of Product",           "email": "r.kim@pulsepointcrm.com"},
+  {"company": "Pulsepoint CRM",  "name": "David Torres",    "title": "VP of Sales",               "email": "d.torres@pulsepointcrm.com"},
+  {"company": "Meridian Cloud",  "name": "Ethan Graves",    "title": "VP of Engineering",         "email": "e.graves@meridiancloud.io"},
+  {"company": "Meridian Cloud",  "name": "Sophie Laurent",  "title": "Head of FinOps",            "email": "s.laurent@meridiancloud.io"}
+]

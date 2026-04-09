@@ -1,0 +1,107 @@
+[
+  {
+    "name": "RevenueOS Core",
+    "category": "Revenue Intelligence",
+    "description": "AI-powered revenue operations platform that unifies pipeline data, forecasting, and deal intelligence across CRM, email, and calendar. Gives RevOps teams a single source of truth.",
+    "pain_points_solved": ["CRM data entry burden", "inaccurate forecasting", "poor pipeline visibility", "low CRM adoption"],
+    "ideal_customer": "B2B SaaS companies with 50-500 employees and a dedicated sales team looking to reduce revenue leakage."
+  },
+  {
+    "name": "SignalStream",
+    "category": "Sales Intelligence",
+    "description": "Real-time buyer intent signal aggregator. Monitors job postings, funding news, tech stack changes, and executive moves to surface high-propensity accounts for outbound teams.",
+    "pain_points_solved": ["identifying in-market accounts", "poor outbound targeting", "low email response rates", "wasted SDR time"],
+    "ideal_customer": "Outbound-heavy sales teams at growth-stage B2B companies wanting to prioritize their TAM with data-driven signals."
+  },
+  {
+    "name": "DataBridge Sync",
+    "category": "Data Integration",
+    "description": "No-code data pipeline builder that connects SaaS tools (CRM, ERP, data warehouses) with bi-directional sync, automated transformations, and anomaly alerts.",
+    "pain_points_solved": ["fragmented tooling", "manual data reconciliation", "data warehouse cost management", "EHR integration complexity"],
+    "ideal_customer": "Ops and engineering teams at mid-market companies drowning in spreadsheet exports and one-off ETL scripts."
+  },
+  {
+    "name": "ComplianceGuard",
+    "category": "Compliance & Security",
+    "description": "Automated compliance monitoring for SOC 2, ISO 27001, HIPAA, and GDPR. Continuously maps controls to evidence, auto-generates audit reports, and flags gaps.",
+    "pain_points_solved": ["HIPAA compliance overhead", "compliance reporting across frameworks", "audit preparation time", "GDPR readiness"],
+    "ideal_customer": "Fast-growing SaaS companies preparing for enterprise deals or regulated-industry verticals needing continuous compliance posture."
+  },
+  {
+    "name": "PulseEngage",
+    "category": "Employee Experience",
+    "description": "Continuous employee engagement platform with pulse surveys, manager coaching nudges, and retention risk scoring powered by NLP sentiment analysis.",
+    "pain_points_solved": ["low remote employee engagement", "poor new hire onboarding completion", "high churn of top performers", "lack of manager visibility"],
+    "ideal_customer": "People Ops teams at remote-first or hybrid companies with 100+ employees facing engagement and retention challenges."
+  },
+  {
+    "name": "CloudLens FinOps",
+    "category": "Cloud Cost Management",
+    "description": "Multi-cloud cost observability and optimization engine. Provides per-team showback, anomaly detection, right-sizing recommendations, and commitment buying intelligence.",
+    "pain_points_solved": ["cloud cost unpredictability", "multi-cloud visibility gaps", "K8s complexity for small teams", "cloud cost management"],
+    "ideal_customer": "Engineering and finance leaders at cloud-native companies spending $50K+/month on AWS, GCP, or Azure."
+  },
+  {
+    "name": "LearnForge AI",
+    "category": "Corporate Learning",
+    "description": "AI content authoring and LMS platform that auto-generates course modules from existing documentation, SOPs, or expert videos. Tracks skills gaps against role requirements.",
+    "pain_points_solved": ["manual content authoring bottleneck", "low course completion rates", "lack of skills gap analytics", "onboarding at scale"],
+    "ideal_customer": "L&D teams at enterprises or high-growth scaleups with rapid headcount growth and outdated training content."
+  },
+  {
+    "name": "ThreatLens SIEM",
+    "category": "Cybersecurity",
+    "description": "AI-assisted threat detection and investigation platform. Correlates signals across cloud, endpoints, and identity to surface high-fidelity alerts. Slashes mean-time-to-detect by 60%.",
+    "pain_points_solved": ["SIEM alert noise overload", "slow threat investigation workflows", "alert fatigue for clinicians", "security incident response time"],
+    "ideal_customer": "Security teams at mid-enterprise companies with 200-2000 employees outgrowing legacy SIEM tools or evaluating Splunk alternatives."
+  },
+  {
+    "name": "RouteIQ",
+    "category": "Logistics Optimization",
+    "description": "Last-mile delivery optimization engine using ML to dynamically route drivers, predict ETAs, and rebalance loads in real time. Integrates with major WMS and TMS platforms.",
+    "pain_points_solved": ["driver route inefficiency", "real-time inventory visibility gaps", "manual carrier reconciliation", "last-mile delivery cost"],
+    "ideal_customer": "Logistics and supply chain companies with 50+ delivery drivers or warehouse operations seeking 15-30% cost reduction."
+  },
+  {
+    "name": "InsightBoard",
+    "category": "Business Intelligence",
+    "description": "Embedded analytics SDK and no-code dashboard builder for SaaS products. Lets non-technical users build live reports from any data source in minutes without SQL.",
+    "pain_points_solved": ["long time-to-insight for non-technical users", "poor dashboard adoption", "data silos", "self-serve BI for customers"],
+    "ideal_customer": "Product and ops teams at B2B SaaS companies that want to embed analytics in their product or replace BI tools their users don't actually open."
+  },
+  {
+    "name": "FieldSync Mobile CRM",
+    "category": "CRM / Field Sales",
+    "description": "Offline-first mobile CRM for field sales teams. Auto-logs calls and visits, captures GPS check-ins, and syncs to Salesforce or HubSpot when connectivity returns.",
+    "pain_points_solved": ["CRM data entry burden on reps", "poor CRM adoption", "territory conflict visibility", "field sales activity tracking"],
+    "ideal_customer": "Field sales teams of 10-200 reps in industries like medical devices, construction, or consumer goods with spotty connectivity on the road."
+  },
+  {
+    "name": "PaymentPulse",
+    "category": "FinTech Infrastructure",
+    "description": "Intelligent payment retry engine and revenue recovery platform for subscription businesses. Uses ML to predict optimal retry timing, reducing involuntary churn by up to 40%.",
+    "pain_points_solved": ["high payment failure rates", "complex dunning logic", "lack of real-time revenue analytics", "involuntary churn from failed payments"],
+    "ideal_customer": "SaaS and subscription companies with $1M+ ARR experiencing 5-15% monthly revenue loss due to failed payments and weak dunning sequences."
+  },
+  {
+    "name": "AgriSense Platform",
+    "category": "AgriTech",
+    "description": "End-to-end precision agriculture platform combining satellite NDVI imagery, IoT soil sensors, and ML yield forecasting. Delivers actionable field-level recommendations to agronomists.",
+    "pain_points_solved": ["sensor data reliability in rural areas", "fragmented agronomist workflow", "ROI justification to farmers", "crop yield optimization"],
+    "ideal_customer": "Mid-to-large agricultural operations and agronomy service providers managing 5,000+ acres seeking data-driven crop management."
+  },
+  {
+    "name": "OnboardIQ",
+    "category": "HR Tech / Onboarding",
+    "description": "Structured employee onboarding automation. Creates personalized 30-60-90 day plans, auto-assigns tasks across HR/IT/manager, and tracks completion with nudge reminders.",
+    "pain_points_solved": ["poor new hire onboarding completion", "fragmented tooling across Slack/Notion/Jira", "low remote employee engagement", "time-to-productivity for new hires"],
+    "ideal_customer": "HR and People Ops teams at fast-growing companies hiring 10+ people per month who need to scale onboarding without adding headcount."
+  },
+  {
+    "name": "NexusAPI Gateway",
+    "category": "Developer Infrastructure",
+    "description": "Managed API gateway with built-in rate limiting, auth, analytics, and versioning. Deploy in one click to any cloud. Replaces Kong or AWS API Gateway for teams that want simplicity.",
+    "pain_points_solved": ["API management complexity", "developer productivity bottlenecks", "multi-cloud visibility gaps", "time-to-market for new integrations"],
+    "ideal_customer": "Engineering teams at growth-stage companies exposing internal or external APIs and needing enterprise-grade control without the operational overhead."
+  }
+]
