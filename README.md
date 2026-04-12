@@ -27,6 +27,10 @@ All company data is seeded synthetic data. No emails are sent. No scraping occur
 
 ## 2. How It Works
 
+### 2.0. Demo
+
+https://github.com/ahmedhussein02/agentic-ai-sales-crm/releases/download/demo/CRM-demo.mp4
+
 ### 2.1. Agent Pipeline
 
 Tthe system is a four-agent pipeline orchestrated by LangGraph. Each agent is a node in a **directed acyclic graph (DAG)**. They share state through a typed schema and hand off **structured outputs** to the next node.
