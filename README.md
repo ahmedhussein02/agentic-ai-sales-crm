@@ -29,7 +29,7 @@ All company data is seeded synthetic data. No emails are sent. No scraping occur
 
 ### 2.0. Demo
 
-https://github.com/ahmedhussein02/agentic-ai-sales-crm/releases/download/demo/CRM-demo.mp4
+[CRM-demo.mp4](https://drive.google.com/file/d/150ZpGDOKaKnV2Jz7SWGGmIpPtZZaLRt6/view?usp=sharing)
 
 ### 2.1. Agent Pipeline
 
